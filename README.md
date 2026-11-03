@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Xendyle.media150</title>
+    <title>Xendyle.media150class</title>
 
     <style>
         body {
