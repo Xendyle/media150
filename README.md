@@ -3,7 +3,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Xendyle.media150class</title>
-  
+    <h1>(っ◔◡◔)っ ♥ HomeworkPages ♥</h1>
+  h1 {
+    color:blue;
+    }
+    .box {
+    margin: 20px; 
+    border: 2px solid black;
+    }
+    
     <!-- Main Content -->
     <div class="container">
 
