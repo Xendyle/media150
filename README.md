@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Xendyle.media150class</title>
-    <h1>(っ◔◡◔)っ ♥ HomeworkPages ♥</h1>
+  
   h1 {
     color:blue;
     }
@@ -33,6 +33,7 @@
 
         <ul> 
     <li> Hw1.html</li>
+      <h1>(っ◔◡◔)っ ♥ HomeworkPages ♥</h1>
 </ul>
     </div>
 
