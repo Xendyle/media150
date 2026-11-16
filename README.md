@@ -66,8 +66,10 @@
     <div class="container">
 
         <h1>Welcome to the Webpage of Xendyle.Media150</h1>
-        
+
+
         <div class="description">
+            <h2>About This Page</h2>
            <p>
             My page explores the intersection of personal experience, storytelling with little to no words, and the search for belonging. In art, I find myself lost in how narratives shape our understanding of identity, communities, and the wider world we all share. I find constant inspiration in everyday moments, from family responsibilities and cultural roots to the quiet spaces around the corner.
         </p>
